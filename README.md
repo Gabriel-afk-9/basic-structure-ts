@@ -1,1 +1,1 @@
-#ts-setup
+# dev-setups
